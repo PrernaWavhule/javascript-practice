@@ -21,3 +21,13 @@ Thumbs.db
 
 # VS Code
 .vscode/
+
+# Node.js dependencies
+**/node_modules/
+
+# Package lock files
+**/package-lock.json
+
+# Other ignored files
+*.class
+.env
